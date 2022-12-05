@@ -1,0 +1,19 @@
+.odds{
+    font-family: verdana, 'DejaVu sans', sans-serif;
+    background-color: lightcoral;
+}
+
+#sec{
+    color: blue;
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
